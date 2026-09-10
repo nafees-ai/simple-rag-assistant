@@ -27,4 +27,4 @@ A command-line Retrieval-Augmented Generation (RAG) assistant built with Python 
 6. Run: `python simple_rag.py`
 
 ## Author
-Muhammad Nafees Khangit remote remove origin
+Muhammad Nafees Khan
